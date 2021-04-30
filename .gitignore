@@ -1,0 +1,6 @@
+/**/dataset/*
+ignore_project/*
+/**/checkpoints/*
+/**/run/*
+*.pth
+*.pt
